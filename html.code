@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title>Portifolio</title>
+    </head>
+</html>
+    <header>
+        <h1> My Portifolio </h1>
+        <nav>
+            <a href=" https://github.com/ys1s/Investment-calculator/tree/main/.github"
+        </nav>
+    </header>
+    <main>
+        <div class="row">
+            <div class="post-text-box">
+                <h1> Oldest project </h1>
+                <section>
+                    <h1> Investment-calculator </h1>
+                    <p> Calculator designed for quick and specific calculations. </p>
+                </section>
+            </div>
+            <div class="profile"
+            <h1> About me </h1>
+            <img src="c:\Users\55869\Downloads\Black and White Photographer Portfolio Presentation (1).png">
+            <p>Ysis Rodrigues, 14 y, Teresina-Pi.</p>
+        </div>
+    </div>
+    </main>
+    <footer>
+        <a href="https://www.instagram.com/yr1d_/"> Instagram</a>
+        <a href="https://github.com/ys1s"> GitHub</a>
+    </footer>
+    </body>>
+    </html>
